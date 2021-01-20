@@ -10,6 +10,9 @@ h2 {
 h3 {
     font-family: 'Abhaya Libre', serif;
     font-size: 2.2em;
+}
+
+#skills {
     margin-bottom: 4vh;
 }
 
@@ -89,8 +92,9 @@ footer > .container {
 }
 
 .imgProjets {
-    width: auto;
+    width: 28vw;
     height: 25vw;
+    box-shadow: 12px 8px 5px #666;
 }
 
 .projets {
@@ -110,4 +114,12 @@ footer > .container {
     font-family: 'Amiko', sans-serif;
     width: 222px;
     font-weight: 100;
+}
+
+.btn {
+    box-shadow: 6px 4px 5px #666;
+}
+
+.badge {
+    box-shadow: 6px 4px 5px #666;
 }
